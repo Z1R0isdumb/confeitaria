@@ -620,7 +620,6 @@ h1 {
 .price-card,
 .signup-card,
 .game-zone,
-.poster-section {
   border: 1px solid rgba(255, 255, 255, 0.9);
   background: rgba(255, 250, 240, 0.78);
   box-shadow: var(--shadow-soft);
@@ -998,18 +997,7 @@ h1 {
   box-shadow: var(--shadow-soft);
 }
 
-.poster-section {
-  padding: 3rem;
-  border-radius: var(--radius-xl);
-  text-align: center;
-}
 
-.poster-img {
-  width: min(100%, 640px);
-  border-radius: var(--radius-xl);
-  box-shadow: var(--shadow);
-  border: 10px solid rgba(255, 255, 255, 0.72);
-}
 
 .site-footer {
   position: relative;
